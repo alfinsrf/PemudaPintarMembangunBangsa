@@ -4,3 +4,8 @@
   <br>
 </p>
 
+Hi, I'm Alfin 👋
+I'd like to explain the game I've created. Enjoy! 
+**Pemuda Pintar: Membangun Bangsa** is a platformer game where players navigate through obstacles, avoid traps, and outsmart enemies. The enemies in the game challenge players with short quizzes, and players must answer the questions to progress.
+
+The game features various types of questions, most of which cover school subjects, while some are based on random facts. To help players, there will be signs providing information related to the topics on which the enemies will quiz them.
