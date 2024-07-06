@@ -13,7 +13,7 @@ The game features various types of questions, most of which cover school subject
 <br>
 
 ## 📌Play Game
-To be able to play this game, you can download it via itch.io page. Coming soon!
+Itch.io page coming soon! But you can go to [my Itch.io profile] (https://afr-developer.itch.io/)
 
 <br>
 
@@ -22,4 +22,5 @@ Coming soon.
 
 <br>
 
-<h3 align="center">Thank You</h3>
+<h3 align="center">If you need something, you can contact me</h3>
+<h2 align="center">Thank You</h2>
