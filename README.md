@@ -14,7 +14,8 @@ The game features various types of questions, most of which cover school subject
 <br>
 
 ## 📌Play Game
-Itch.io page coming soon! But you can go to [my Itch.io profile](https://afr-developer.itch.io/)
+❗Game V1.2 is coming soon to itch.io and the page will be up soon! You can visit [my Itch.io profile](https://afr-developer.itch.io/) first. Thankyou and stay tuned!
+
 
 <br>
 
