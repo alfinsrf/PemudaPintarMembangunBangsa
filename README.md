@@ -24,5 +24,5 @@ Coming soon.
 
 <br>
 
-<h3 align="center">If you need something, you can contact me</h3>
+<h3 align="center">If you need something or have a request, you can contact me</h3>
 <h2 align="center">Thank You</h2>
